@@ -698,4 +698,4 @@ Finally, the healthcare case study by Esteva et al. demonstrates how Data Scienc
    https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets
 
 7. scikit-learn Developers. *Common pitfalls and recommended practices: Data leakage*.
-   https://scikit-learn.org/stable/common_pitfalls.html
+   https://scikit-learn.org/stable/common_pitfalls.html.
