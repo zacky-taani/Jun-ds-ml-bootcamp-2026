@@ -40,3 +40,4 @@ I applied **StandardScaler** to numeric features to normalize their distribution
 ## Conclusion
 
 Overall, the preprocessing pipeline ensures clean, consistent, and model-ready data. Each decision was made to balance data quality, model performance, and prevention of data leakage. The final dataset is suitable for training machine learning models for car price prediction.
+
