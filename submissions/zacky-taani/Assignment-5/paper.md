@@ -269,6 +269,6 @@ Research has shown that Random Forest often achieves higher predictive accuracy 
 
 Classification is one of the most important supervised learning techniques because it enables organizations to predict categorical outcomes. Algorithms such as Logistic Regression, Decision Trees, and Random Forest each have unique strengths and weaknesses depending on the dataset and problem.
 
-Proper evaluation using Accuracy, Precision, Recall, F1-Score, and the Confusion Matrix is essential for understanding model performance, especially when dealing with imbalanced datasets. In practical applications such as loan approval, selecting the appropriate evaluation metric is just as important as selecting the appropriate algorithm. By combining effective preprocessing, suitable models, and meaningful evaluation metrics, organizations can make accurate and reliable decisions from data.
+Proper evaluation using Accuracy, Precision, Recall, F1-Score, and the Confusion Matrix is essential for understanding model performance, especially when dealing with imbalanced datasets. In practical applications such as loan approval, selecting the appropriate evaluation metric is just as important as selecting the appropriate algorithm. By combining effective preprocessing, suitable models, and meaningful evaluation metrics, organizations can make accurate and reliable decisions from .
 
 -----
